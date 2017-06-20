@@ -28,6 +28,12 @@ unactivated:
  password_digest: <%= User.digest('password') %>
  activated: false
 
+paco:
+ name: Paco
+ email: paco@example.com
+ password_digest: <%= User.digest('password') %>
+ activated: true
+
 <% 30.times do |n| %>
 user_<%= n %>:
  name: <%= "User #{n}" %>
