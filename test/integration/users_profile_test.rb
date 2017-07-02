@@ -20,4 +20,10 @@ class UsersProfileTest < ActionDispatch::IntegrationTest
     end
   end
   
+  test "user home page" do
+    log_in_as(@user)
+    get root_url
+    assert_select 'div.stats'
+  end
+  
 end

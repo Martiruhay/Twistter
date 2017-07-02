@@ -1,0 +1,15 @@
+one:
+ follower: mitra
+ followed: god
+
+two:
+ follower: mitra
+ followed: paco
+
+three:
+ follower: paco
+ followed: mitra
+
+four:
+ follower: michael
+ followed: mitra
