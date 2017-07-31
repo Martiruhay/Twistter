@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersIndexTest" skipped="0" failures="0" errors="0" tests="4" assertions="125" time="0.46034380653873086">
+  <testcase name="test_delete_as_admin" classname="UsersIndexTest" assertions="1" time="0.13048452325165272">
+  </testcase>
+  <testcase name="test_delete_as_non-admin" classname="UsersIndexTest" assertions="2" time="0.08983139507472515">
+  </testcase>
+  <testcase name="test_index_as_non-admin_including_pagination_and_NOT_delete_links" classname="UsersIndexTest" assertions="61" time="0.10377057781443">
+  </testcase>
+  <testcase name="test_index_as_admin_including_pagination_and_delete_links" classname="UsersIndexTest" assertions="61" time="0.136257310397923">
+  </testcase>
+</testsuite>

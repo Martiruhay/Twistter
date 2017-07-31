@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SessionsHelperTest" skipped="0" failures="0" errors="0" tests="2" assertions="3" time="0.02758653834462166">
+  <testcase name="test_current_user_returns_nil_when_remember_digest_is_wrong" classname="SessionsHelperTest" assertions="1" time="0.015856475103646517">
+  </testcase>
+  <testcase name="test_current_user_returns_right_user_when_session_is_nil" classname="SessionsHelperTest" assertions="2" time="0.011730063240975142">
+  </testcase>
+</testsuite>

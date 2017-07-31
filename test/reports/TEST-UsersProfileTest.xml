@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersProfileTest" skipped="0" failures="0" errors="0" tests="2" assertions="68" time="0.3015759480185807">
+  <testcase name="test_profile_display" classname="UsersProfileTest" assertions="67" time="0.07930232398211956">
+  </testcase>
+  <testcase name="test_user_home_page" classname="UsersProfileTest" assertions="1" time="0.22227362403646111">
+  </testcase>
+</testsuite>

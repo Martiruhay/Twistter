@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SiteLayoutTest" skipped="0" failures="0" errors="0" tests="2" assertions="14" time="0.2790135107934475">
+  <testcase name="test_layout_links_with_login" classname="SiteLayoutTest" assertions="6" time="0.2224740358069539">
+  </testcase>
+  <testcase name="test_layout_links_without_login" classname="SiteLayoutTest" assertions="8" time="0.05653947498649359">
+  </testcase>
+</testsuite>

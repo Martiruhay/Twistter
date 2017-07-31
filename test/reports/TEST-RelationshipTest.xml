@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RelationshipTest" skipped="0" failures="0" errors="0" tests="3" assertions="3" time="0.03197543928399682">
+  <testcase name="test_should_require_a_followed_id" classname="RelationshipTest" assertions="1" time="0.011187916155904531">
+  </testcase>
+  <testcase name="test_should_be_valid" classname="RelationshipTest" assertions="1" time="0.011830776929855347">
+  </testcase>
+  <testcase name="test_should_require_a_follower_id" classname="RelationshipTest" assertions="1" time="0.008956746198236942">
+  </testcase>
+</testsuite>

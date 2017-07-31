@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersEditTest" skipped="0" failures="0" errors="0" tests="3" assertions="18" time="0.1974943266250193">
+  <testcase name="test_successful_edit_with_friendly_forwarding" classname="UsersEditTest" assertions="9" time="0.03894076682627201">
+  </testcase>
+  <testcase name="test_unsuccessful_edit" classname="UsersEditTest" assertions="3" time="0.07989062182605267">
+  </testcase>
+  <testcase name="test_successful_edit" classname="UsersEditTest" assertions="6" time="0.07866293797269464">
+  </testcase>
+</testsuite>

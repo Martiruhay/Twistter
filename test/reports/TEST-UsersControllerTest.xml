@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersControllerTest" skipped="0" failures="0" errors="0" tests="11" assertions="18" time="0.2044784091413021">
+  <testcase name="test_should_redirect_update_when_not_logged_in" classname="UsersControllerTest" assertions="2" time="0.006860824767500162">
+  </testcase>
+  <testcase name="test_should_redirect_followers_when_not_logged_in" classname="UsersControllerTest" assertions="1" time="0.006621353793889284">
+  </testcase>
+  <testcase name="test_should_redirect_destroy_when_not_logged_in" classname="UsersControllerTest" assertions="2" time="0.008128675166517496">
+  </testcase>
+  <testcase name="test_should_get_new" classname="UsersControllerTest" assertions="1" time="0.023151766043156385">
+  </testcase>
+  <testcase name="test_should_not_allow_the_admin_attribute_to_be_edited_via_te_web" classname="UsersControllerTest" assertions="2" time="0.037343783769756556">
+  </testcase>
+  <testcase name="test_should_redirect_index_when_not_logged_in" classname="UsersControllerTest" assertions="1" time="0.009146932978183031">
+  </testcase>
+  <testcase name="test_should_redirect_destroy_when_logged_as_a_non-admin" classname="UsersControllerTest" assertions="2" time="0.033172177616506815">
+  </testcase>
+  <testcase name="test_should_redirect_edit_when_not_logged_in" classname="UsersControllerTest" assertions="2" time="0.011022360995411873">
+  </testcase>
+  <testcase name="test_should_redirect_edit_when_logged_in_as_wrong_user" classname="UsersControllerTest" assertions="2" time="0.03392258286476135">
+  </testcase>
+  <testcase name="test_should_redirect_following_when_not_logged_in" classname="UsersControllerTest" assertions="1" time="0.009564918000251055">
+  </testcase>
+  <testcase name="test_should_redirect_update_when_logged_in_as_wrong_user" classname="UsersControllerTest" assertions="2" time="0.0255430331453681">
+  </testcase>
+</testsuite>

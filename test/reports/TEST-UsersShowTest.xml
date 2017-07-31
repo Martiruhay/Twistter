@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersShowTest" skipped="0" failures="0" errors="0" tests="2" assertions="2" time="0.10734468838199973">
+  <testcase name="test_show_activated_user" classname="UsersShowTest" assertions="1" time="0.09649079106748104">
+  </testcase>
+  <testcase name="test_show_unactivated_user" classname="UsersShowTest" assertions="1" time="0.01085389731451869">
+  </testcase>
+</testsuite>

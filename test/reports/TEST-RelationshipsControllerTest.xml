@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RelationshipsControllerTest" skipped="0" failures="0" errors="0" tests="2" assertions="4" time="0.02081383904442191">
+  <testcase name="test_create_should_require_logged-in_user" classname="RelationshipsControllerTest" assertions="2" time="0.009648832026869059">
+  </testcase>
+  <testcase name="test_destroy_should_require_logged-in_user" classname="RelationshipsControllerTest" assertions="2" time="0.011165007017552853">
+  </testcase>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserTest" skipped="0" failures="0" errors="0" tests="15" assertions="66" time="0.30080851959064603">
+  <testcase name="test_associated_microposts_should_be_destroyed" classname="UserTest" assertions="1" time="0.04305562935769558">
+  </testcase>
+  <testcase name="test_should_be_valid" classname="UserTest" assertions="1" time="0.005911729298532009">
+  </testcase>
+  <testcase name="test_email_addresses_should_be_unique" classname="UserTest" assertions="1" time="0.014523997902870178">
+  </testcase>
+  <testcase name="test_email_should_be_present" classname="UserTest" assertions="1" time="0.007528814021497965">
+  </testcase>
+  <testcase name="test_feed_should_have_the_right_posts" classname="UserTest" assertions="40" time="0.12828344106674194">
+  </testcase>
+  <testcase name="test_name_should_not_be_too_long" classname="UserTest" assertions="1" time="0.006260700058192015">
+  </testcase>
+  <testcase name="test_authenticated?_should_return_false_for_a_user_with_nil_digest" classname="UserTest" assertions="1" time="0.0031574778258800507">
+  </testcase>
+  <testcase name="test_should_follow_and_unfollow_a_user" classname="UserTest" assertions="4" time="0.026683263015002012">
+  </testcase>
+  <testcase name="test_email_validation_should_accept_valid_addresses" classname="UserTest" assertions="5" time="0.008481319062411785">
+  </testcase>
+  <testcase name="test_email_should_not_be_too_long" classname="UserTest" assertions="1" time="0.004620008170604706">
+  </testcase>
+  <testcase name="test_name_should_be_present" classname="UserTest" assertions="1" time="0.004892284050583839">
+  </testcase>
+  <testcase name="test_password_should_have_a_minimum_length" classname="UserTest" assertions="1" time="0.006678171921521425">
+  </testcase>
+  <testcase name="test_email_addresses_should_be_saved_as_lower-case" classname="UserTest" assertions="1" time="0.013026720844209194">
+  </testcase>
+  <testcase name="test_password_should_be_present_(nonblank)" classname="UserTest" assertions="1" time="0.008617681916803122">
+  </testcase>
+  <testcase name="test_email_validation_should_reject_invalid_addresses" classname="UserTest" assertions="6" time="0.019087281078100204">
+  </testcase>
+</testsuite>

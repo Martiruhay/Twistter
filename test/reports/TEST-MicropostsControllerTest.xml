@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MicropostsControllerTest" skipped="0" failures="0" errors="0" tests="3" assertions="6" time="0.05090364953503013">
+  <testcase name="test_should_redirect_create_when_not_logged_in" classname="MicropostsControllerTest" assertions="2" time="0.008836038876324892">
+  </testcase>
+  <testcase name="test_should_redirect_destroy_when_not_logged_in" classname="MicropostsControllerTest" assertions="2" time="0.007920458912849426">
+  </testcase>
+  <testcase name="test_should_redirect_destroy_for_wrong_micropost" classname="MicropostsControllerTest" assertions="2" time="0.03414715174585581">
+  </testcase>
+</testsuite>

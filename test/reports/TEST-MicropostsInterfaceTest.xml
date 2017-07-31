@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MicropostsInterfaceTest" skipped="0" failures="0" errors="0" tests="2" assertions="18" time="0.8390376782044768">
+  <testcase name="test_micropost_interface" classname="MicropostsInterfaceTest" assertions="12" time="0.5517910071648657">
+  </testcase>
+  <testcase name="test_micropost_sidebar_count" classname="MicropostsInterfaceTest" assertions="6" time="0.2872466710396111">
+  </testcase>
+</testsuite>
